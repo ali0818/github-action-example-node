@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abhinavdhasmana/github-action-example-node.git"
+    "url": "git+https://github.com/abahinavdhasmana/github-action-example-node.git"
   },
   "keywords": [
     "node.js",
