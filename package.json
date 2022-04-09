@@ -1,6 +1,6 @@
 {
   "name": "github-action-example-node",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A sample node.js application that uses github actions for CI and CD",
   "main": "server.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abhinavdhasmana/github-action-example-node.git"
+    "url": "git+https://github.com/abahinavdhasmana/github-action-example-node.git"
   },
   "keywords": [
     "node.js",
