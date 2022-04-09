@@ -1,5 +1,5 @@
 {
-  "name": "github-action-example-node",
+  "name": "github-action-example-nodse",
   "version": "1.0.0",
   "description": "A sample node.js application that uses github actions for CI and CD",
   "main": "server.js",
