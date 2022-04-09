@@ -1,6 +1,6 @@
 {
   "name": "github-action-example-node",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A sample node.js application that uses github actions for CI and CD",
   "main": "server.js",
   "scripts": {
